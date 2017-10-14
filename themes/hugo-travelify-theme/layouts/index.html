@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.10";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  {{ partial "header" . }}
+  <body class="home blog logged-in admin-bar no-customize-support custom-background ">
+      <div class="wrapper">
+      <header id="branding" >
+	{{ partial "head" . }}
+	{{ partial "nav" . }}
+	{{ partial "slider" . }}
+      </header>
+      <div id="main" class="container clearfix">
+	<div id="container">
+	  <div {{ if .Site.Params.widgets }}id="primary"{{ end }} class="no-margin-left">
+	    <div id="content">
+	      {{ partial "article_list" . }}
+	    </div>
+	  </div><!-- #content -->
+	</div><!-- #primary -->
+	{{ partial "widgets" . }}
+      </div><!-- #container -->
+    </div><!-- #main -->
+    {{ partial "footer.html" . }}
+
+    <div id="fb-root"></div>
+  </body>
+</html>

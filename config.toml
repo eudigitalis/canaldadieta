@@ -1,0 +1,92 @@
+baseURL = "https://canaldadieta.com/"
+title = "Canal Da Dieta"
+subtitle = "Perda de peso e dieta para emagrecer"
+languageCode = "pt-br"
+# preservetaxonomynames = true
+theme = "hugo-travelify-theme"
+DisqusShortname = "canaldadieta"
+GoogleAnalytics = "UA-77358546-11"
+canonifyURLs = true
+# rssURI = "feed/" #deprecated feature
+
+[params]
+    # Tell me who you are
+    author = "Canal Da Dieta"
+    site_description = "Perda de peso e dieta para emagrecer"
+    copyright  = "Copyright"
+    avatar = "css/images/avatar.png"
+    logo = "css/images/logo.png"
+    disable_mathjax = false # set to true to disable MathJax
+
+    # Format dates with Go's time formatting
+    date_format = "2/01/2006"
+    #dateFormat = "2/01/2006" # Optional
+
+    # Add custom assets with their paths relative to the static folder
+    custom_css = []
+    custom_js  = []
+
+# Create custom menu entries by defining a label and a link for
+# them. Since you can also link posts, you've the option the
+# place the links before or after them.
+#
+# E.g.: "Home" appears before all linked posts in the menu
+# and "Tags" / "Categories" after them.
+
+[[menu.main]]
+    name  = "Home"
+    url   = "/"
+    weight = 10
+
+[[menu.main]]
+    name  = "Dieta De 21 Dias"
+    url   = "https://go.hotmart.com/A5912720R?ap=2542"
+    weight = 20
+
+
+
+[social]
+# Add your social network accounts to the profile section on the left
+# by entering your username. The links to your account will be
+# created automatically.
+    #github          = "nikimonikado"
+    #flickr          = "nikimonikado"
+    instagram       = "canaldadieta"
+    #youtube         = "nikimonikado"
+    #vimeo           = "nikimonikado"
+    tumblr          = "canaldadieta"
+    #linkedin        = "nikimonikado"
+    #pinterest       = "nikimonikado"
+    googleplus      = "101828033219938089907"
+    facebook        = "canaldadietabr"
+    twitter         = "CanalDieta"
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    recent_articles = true
+    categories = true
+    tags = true
+    tag_cloud = false
+    archives = false # This feature is yet to be implemented because of limitations in Hugo's way of working.
+    search = true
+    mailchimp = false
+    mailchimpform = "http://dietade21dias.com.br/?ref=A5912720R&_ga=2.112070659.66923731.1507159642-2018940550.1506870417"
+    author = false
+    facebook_like = true
+
+[params.slider]
+    enable = true
+    num_features = 6 # The slider picks up the banner images from the N most recent posts, where num_features is N.
+
+[Taxonomies]
+    tags = "tags"
+    categories = "categories"
+    author = "author"
+
+## DONE - Menu
+## DONE - slider
+## DONE - facebook like on homepage
+## DONE - category URL to work
+## DONE - footer
+## DONE - add tags to the footer
+## TODO - some posts without banner

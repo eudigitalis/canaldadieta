@@ -1,0 +1,61 @@
+[articles]
+    read_more = "Leia Mais"
+    words = "palavras"
+    readingtime = "minutos de leitura"
+    share = "Compartilhar esse:"
+    comments = "Comentários"
+
+# Linked older/newer posts at the bottom of each one
+[articles.linked_posts]
+    older = "←"
+    newer = "→"
+
+[search]
+    placeholder = "Buscar"
+
+[pagination]
+    previous = "Anterior"
+    next = "Proximo"
+
+[profile]
+    follow_button = "Like Us"
+    tags = "Tags"
+    posts = "Posts"
+
+[page_not_found]
+    title = "Erro 404 - Página NÃO Encontrada"
+    subtitle = "O conteúdo que você procura parece que não existi."
+
+[social]
+    facebook = "Siga-nos no Facebook"
+    twitter = "Siga-nos no Twitter"
+    RSS = "Assine o nosso feed"
+    googleplus = "Siga-nos no  Google Plus"
+    pinterest = "Siga-nos no  Pinterest"
+    linkedin = "Siga-nos no  LinkedIn"
+    tumblr = "Siga-nos no  Tumblr"
+    vimeo = "Siga-nos no  Vimeo"
+    instagram = "Siga-nos no  Instagram"
+    flickr = "Siga-nos no  Flickr"
+    youtube = "Siga-nos no  YouTube"
+    github = "Siga-nos no  GitHub"
+
+[widgets.categories]
+    title = "Categorias"
+
+[widgets.recent_articles]
+    title = "Recentes"
+
+[widgets.tag_cloud]
+    title = "Nuvem de tags"
+    min_count = 2  # If you have many posts, then tag with just one topic makes the tag cloud cluttered. This variable can help reduce the clutter.
+
+[widgets.mailchimp]
+    title = "Assinar e-mail"
+    subscribe_text = "Digite seu endereço de email para receber notificações de novos posts por email."
+
+[widgets.tags]
+    title = "Tags"
+
+[authors]
+    Title = "Autores"
