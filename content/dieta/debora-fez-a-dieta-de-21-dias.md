@@ -51,11 +51,10 @@ tags = [
 
 type = "post"
 +++
-### **Ela Emagreceu ---> 18 KG!**
-
+***Emagreceu ---> 18 KG!***
 <!--more-->
 
-com a [Dieta de 21 Dias!](https://go.hotmart.com/A5912720R?ap=2542)
+**Com a [Dieta de 21 Dias!](https://go.hotmart.com/A5912720R?ap=2542)**
 ![Debora Confira o Antes e Depois](/fotos/debora.jpg)
 
 
@@ -72,5 +71,5 @@ Benefícios
  - Aumento de foco e energia
  - Benefícios para a sua **saúde**.
 
-Não perca esta chance de ficar mais bela e saudável, [clique neste link ](https://go.hotmart.com/A5912720R?ap=2542) e o restante é só felicidade
+Não perca esta chance de ficar mais bela e saudável, [clique neste link ](https://go.hotmart.com/A5912720R?ap=2542) e o restante é só alegria!
 ==========

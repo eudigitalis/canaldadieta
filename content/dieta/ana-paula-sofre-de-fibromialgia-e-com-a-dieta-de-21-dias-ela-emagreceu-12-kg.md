@@ -50,7 +50,9 @@ tags = [
 type = "post"
 nodateline = true
 +++
-### **Antes e Depois!**
+
+***Antes e Depois!***
+
 <!--more-->
 ![Ana Antes e Depois](/fotos/ana_antes_e_depois_perdeu_12_quilos_com_a_dieta_de_21_dias.jpg)
 
