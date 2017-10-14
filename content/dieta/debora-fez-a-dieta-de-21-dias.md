@@ -52,7 +52,9 @@ tags = [
 type = "post"
 +++
 ### **Ela Emagreceu ---> 18 KG!**
+
 <!--more-->
+
 com a [Dieta de 21 Dias!](https://go.hotmart.com/A5912720R?ap=2542)
 ![Debora Confira o Antes e Depois](/fotos/debora.jpg)
 
