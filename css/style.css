@@ -119,10 +119,6 @@ hr {
   }
 }
 
-.featured-content h3{
-	color: #fff
-}
-
 /* Headings
 -----------------------------------------------*/
 h1,h2,h3,h4,h5,h6 {
@@ -840,10 +836,8 @@ a.more-link:hover {
 .featured-text .featured-title a{
 	color: #fff;
 }
-.featured-text .featured-title h3{
-	color: #fff;
-}
-.featured-content h3{
+
+.featured-content{
 	color: #fff
 }
 
