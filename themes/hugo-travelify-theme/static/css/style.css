@@ -838,6 +838,9 @@ a.more-link:hover {
 .featured-text .featured-title a{
 	color: #fff;
 }
+.featured-text .featured-title h3{
+	color: #fff;
+}
 .featured-content h3{
 	color: #fff
 }
