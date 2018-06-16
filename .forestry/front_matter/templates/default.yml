@@ -1,0 +1,46 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: true
+- name: author
+  label: Author
+  type: tag_list
+  hidden: false
+  default: Canal Da Dieta
+- name: banner
+  label: Banner
+  type: text
+  hidden: false
+  default: "/banners/7148951717_9bbf185db3_h-1018x460.jpg"
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - Dieta
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default:
+  - canal da dieta
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: post
