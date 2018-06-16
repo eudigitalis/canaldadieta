@@ -1,42 +1,14 @@
 +++
-title = "Conheça 15 Ebooks Que Vai Ajudar Voce a Perder Peso!"
-date = 2017-10-17T20:32:16-02:00
-draft = false
-nodateline = true
 author = "Canal Da Dieta"
-
 banner = "/banners/15-ebooks.png"
-
-categories = [
-   "Dieta",
-   ]
-
-tags = [
-  "canal da dieta",
-  "ebook download",
-  "livro ebook",
-  "ebook gratis",
-  "baixar ebook",
-  "amazon ebook",
-  "dieta low carb",
-  "low carb",
-  "emagrecer",
-  "dieta para emagrecer",
-  "cardapio dieta",
-  "dieta dukan",
-  "dieta do ovo",
-  "dieta proteina",
-  "dieta cetogenica",
-  "dieta low carb cardápio",
-  "dieta do ovo 3 dias",
-  "dieta de 21 dias",
-  "dieta intermitente cardapio",
-  ]
-
-
+categories = ["Dieta"]
+date = "2017-10-17T20:32:16-02:00"
+nodateline = true
+tags = ["canal da dieta", "ebook download", "livro ebook", "ebook gratis", "baixar ebook", "amazon ebook", "dieta low carb", "low carb", "emagrecer", "dieta para emagrecer", "cardapio dieta", "dieta dukan", "dieta do ovo", "dieta proteina", "dieta cetogenica", "dieta low carb cardápio", "dieta do ovo 3 dias", "dieta de 21 dias", "dieta intermitente cardapio"]
+title = "Conheça 15 Ebooks Que Vai Ajudar Você a Perder Peso!"
 type = "post"
-+++
 
++++
 <!--more-->
 ### Por que engordamos e o que fazer para evitar?
 </br>
